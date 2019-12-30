@@ -4,7 +4,7 @@
 	"name": "Demo Gauge",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://https://github.com/sebastian684/SAPCustomWidget/box/icon.png",
+	"icon": "https://github.com/sebastian684/SAPCustomWidget/tree/master/box/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
 	"license": "1.0",
