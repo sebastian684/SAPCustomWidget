@@ -3,9 +3,6 @@
 	template.innerHTML = `
 		<style>
 		:host {
-			border-radius: 0px;
-			border-width: px;
-			border-color: black;
 			border-style: solid;
 			display: block;
 		} 
