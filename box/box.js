@@ -3,8 +3,7 @@
 	template.innerHTML = `
 		<style>
 		:host {
-			border-style: solid;
-			display: block;
+		display: block;
 		} 
 
 		body {
