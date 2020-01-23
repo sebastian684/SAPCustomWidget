@@ -1,7 +1,7 @@
 {
-	"id": "com.demo.gauge",
+	"id": "Sebastian",
 	"version": "2.0.0",
-	"name": "Demo GaugeV2",
+	"name": "Sebatian_Custom_Widget",
 	"description": "Demo",
 	"newInstancePrefix": "Gauge",
 	"icon": "https://sebastian684.github.io/SAPCustomWidget/box/icon.png",
